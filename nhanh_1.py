@@ -1,0 +1,5 @@
+print("Anh Tuan chim canh cut")
+print("Day la nhanh thu 2")
+print("Hello thu 2")
+print("Hello")
+print("Chao Xin")
